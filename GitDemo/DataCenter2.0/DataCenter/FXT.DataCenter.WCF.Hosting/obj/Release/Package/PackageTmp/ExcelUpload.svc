@@ -1,2 +1,0 @@
-﻿<%@ ServiceHost Language="C#" Debug="true"  Service="FXT.DataCenter.WCF.Services.ExcelUpload"
-    Factory="Ninject.Extensions.Wcf.NinjectServiceHostFactory" %>

@@ -1,2 +1,0 @@
-﻿<%@ ServiceHost Language="C#" Debug="true"  Service="FXT.DataCenter.WCF.Services.BatchAddPicServices.BatchAddPicture"
-    Factory="Ninject.Extensions.Wcf.NinjectServiceHostFactory" %>
