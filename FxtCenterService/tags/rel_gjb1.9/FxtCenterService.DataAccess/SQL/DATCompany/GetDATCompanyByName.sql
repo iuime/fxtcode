@@ -1,1 +1,0 @@
-﻿select CompanyId,ChineseName,EnglishName,CityId from dbo.DAT_Company where ChineseName=@name or EnglishName=@name

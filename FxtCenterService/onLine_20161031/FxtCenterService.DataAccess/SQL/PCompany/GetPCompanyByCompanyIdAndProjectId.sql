@@ -1,1 +1,0 @@
-﻿select ProjectId,CompanyId,CompanyType,CityId from dbo.LNK_P_Company with(nolock) where ProjectId=@projectid and CompanyId=@companyid and CompanyType=@companytype and CityId=@cityid
